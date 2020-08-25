@@ -1,0 +1,24 @@
+\documentclass[a4paper, 11pt]{article}
+
+\usepackage[latin1]{inputenc}
+\usepackage[italian]{babel}
+
+\title{Questo \'e un titolo \\ questo \'e un suo seguito}
+\author{Mirko Albanese}
+\date{26 Ottobre 2017}
+
+\begin{document}
+
+\maketitle
+
+Questo \'e il mio primo documento con \LaTeX.
+
+Paragrafo 1
+
+Paragrafo 2 
+Ritorno a capo
+
+\vspace{4cm}
+
+Ciao.
+\end{document}
