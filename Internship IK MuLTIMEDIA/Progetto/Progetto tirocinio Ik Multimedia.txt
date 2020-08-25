@@ -1,0 +1,5 @@
+un un algoritmo che simuli una traccia “doppiata". Mi riferisco alle classiche sovraincisioni aperte in stereo che si fanno per le voci, le acustiche, le chitarre power etc.. 
+Si tratterebbe di analizzare le differenze di timing, pitch, dinamica, etc... che si hanno sulla traccia doppiata e sviluppare un algoritmo che generi la doppiatura.
+Andrebbero determinati i comportamenti random e relativi range di intervento a seconda del materiale da doppiare, 
+quindi l’algo avrà diverse tarature se utilizzato per voci o chitarre o altro etc..
+Immagino si potrebbero avere due risoluzioni: una HD da renderare offline ed una realtime con un compromesso sulla latenza)
